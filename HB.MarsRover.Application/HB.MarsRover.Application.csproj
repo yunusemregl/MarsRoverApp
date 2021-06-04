@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HB.MarsRover.Builder\HB.MarsRover.Builder.csproj" />
+    <ProjectReference Include="..\HB.MarsRover.Entities\HB.MarsRover.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

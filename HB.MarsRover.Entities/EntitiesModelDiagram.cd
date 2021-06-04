@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HB.MarsRover.Entities.Concretes.RoverMovement" BaseTypeListCollapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAEAAEAAAAAAAAAAQAA=</HashCode>
+      <FileName>Concretes\RoverMovement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HB.MarsRover.Entities.Concretes.RoverMovementManager" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\RoverMovementManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.24" />
+  </Class>
+  <Class Name="HB.MarsRover.Entities.Concretes.Plateau" BaseTypeListCollapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\Plateau.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HB.MarsRover.Entities.Concretes.Position" BaseTypeListCollapsed="true">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Concretes\Position.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HB.MarsRover.Entities.Concretes.Rover" BaseTypeListCollapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEEACAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Concretes\Rover.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="HB.MarsRover.Entities.abstracts.IRoverMovement">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAEAAEAAAAAAAAAAQAA=</HashCode>
+      <FileName>abstracts\IRoverMovement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HB.MarsRover.Entities.abstracts.IRoverMovementManager">
+    <Position X="8.75" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstracts\IRoverMovementManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HB.MarsRover.Entities.abstracts.IPlateau">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstracts\IPlateau.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HB.MarsRover.Entities.abstracts.IPosition">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>abstracts\IPosition.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HB.MarsRover.Entities.abstracts.IRover">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAACAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>abstracts\IRover.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
